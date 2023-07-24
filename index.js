@@ -45,8 +45,8 @@ const promptUser = () => {
       {
         type: 'checkbox',
         name: 'license',
-        choices: ["MIT", "GPLv2", "Apache", "GPLv3", "BSD 3-clause", "BSD 2-clause", "LGPLv3", "AGPLv3"],
         message: questions[5],
+        choices: ["MIT", "GPLv2", "Apache", "GPLv3", "BSD 3-clause", "BSD 2-clause", "LGPLv3", "AGPLv3"],
       },
       {
         type: 'input',
@@ -64,8 +64,12 @@ const promptUser = () => {
 // TODO: Create a function to initialize app
 function init() {
     promptUser()
-    .then((answers) => writeFile('readme.md', generateMarkdown(answers)))
-    .then(() => console.log('Successfully wrote to index.html'))
+    .then((answers) => {
+      console.log(typeof(answers.license[0]));
+      console.log(answers.license[0]);
+      writeFile('readme.md', generateMarkdown(answers));
+    })
+    .then(() => {console.log('Successfully wrote to index.html')})
     .catch((err) => console.error(err));
 }
 
