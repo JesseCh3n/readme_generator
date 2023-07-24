@@ -1,9 +1,9 @@
-# ABC
-  
+# a
+  ![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)
 
   ## Description
 
-  EFG
+  b
 
   ## Table of Contents
 
@@ -16,23 +16,23 @@
 
   ## Installation
 
-  HIJ
+  c
 
   ## Usage
 
-  MNO
+  d
 
   ## Credits
 
-  ZZZ
+  e
 
   ## License
-  
+  [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
 
   ## How to Contribute
 
-  mmmmmm
+  a
 
   ## Tests
 
-  ttttttttttt
+  b
