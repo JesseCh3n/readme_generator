@@ -1,9 +1,9 @@
-# a
-  ![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)
+# Readme Generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
 
-  b
+  This is an application designed to generate readme file automatically.
 
   ## Table of Contents
 
@@ -16,23 +16,24 @@
 
   ## Installation
 
-  c
+  N/A
 
   ## Usage
 
-  d
+  The application has pre-defined format for the readme file. Please run the node.js application in the terminal; follow the prompts to fill out the file.
+  ![alt screenshot](./video..webm)
 
   ## Credits
 
-  e
+  Credits to Coding Bootcamp
 
   ## License
-  [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0)
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## How to Contribute
 
-  a
+  N/A
 
   ## Tests
 
-  b
+  N/A
