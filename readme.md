@@ -3,7 +3,7 @@
 
   ## Description
 
-  This is an application designed to automatically generate a Readme file following specific format.
+  This application generates a Readme file automatically with pre-defined format.
 
   ## Table of Contents
 
@@ -20,12 +20,12 @@
 
   ## Usage
 
-  Please run the NodeJS application in terminal.
+  Please run the NodeJS application in a terminal. Follow the command line prompts.
   ![alt screenshot](./image.gif)
 
   ## Credits
 
-  Credits to Coding Bootcamp
+  Credit to Coding Bootcamp.
 
   ## License
   [MIT](https://opensource.org/licenses/MIT)
