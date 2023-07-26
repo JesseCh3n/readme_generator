@@ -1,9 +1,9 @@
-# Test
-  
+# Readme Generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
 
-  Test only
+  This is an application designed to automatically generate a Readme file following specific format.
 
   ## Table of Contents
 
@@ -20,15 +20,15 @@
 
   ## Usage
 
-  Not for use
-  ![alt screenshot](./image.jpeg)
+  Please run the NodeJS application in terminal.
+  ![alt screenshot](./image.gif)
 
   ## Credits
 
-  Nobody
+  Credits to Coding Bootcamp
 
   ## License
-  
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## How to Contribute
 

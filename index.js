@@ -7,7 +7,7 @@ const questions = [
     "What is your project title?\n",
     "Please write a brief description of your project.\n",
     "What are the steps required to install your project?\n",
-    "Provide instructions and examples for use. Include a screenshots as needed. Please save the image as image.jpeg in the same directory as index.js\n",
+    "Provide instructions and examples for use. Include a screenshots as needed.\n",
     "List your collaborators, if any, with links to their GitHub profiles.\n",
     "Pick your license\n",
     "How to contribute to your project?\n",
